@@ -1,0 +1,62 @@
+# descriptive: find it and understand it
+id: four-season-heads-in-acanthus-frieze
+title: Frieze of four heads of the seasons in acanthus
+description: A long horizontal etched frieze of linked acanthus scrolls carrying four heads. From the left, a bearded old man's head facing right under a leafy wreath; a blank cartouche of knotted branches; a young woman's head facing left crowned with flowers; a central burst of large feathery acanthus leaves; a girl's head facing right with ears of grain in her hair; a round wreath of wheat and grapes enclosing a hanging pair of scales; and a youth's head facing left wreathed in vine at the right end. Loose dark brown ink; the faint paper tone of the plate is kept at low opacity.
+type: divider
+categories:
+  - humans
+  - scrollwork
+  - botanical
+subjects:
+  - frieze
+  - head
+  - face
+  - beard
+  - woman
+  - wreath
+  - flower
+  - grape
+  - vine
+  - scales
+  - cartouche
+  - acanthus
+  - leaf
+  - scroll
+colors:
+  - brown
+  - black
+facing: mixed
+composition: single-ornament
+
+# structural: how it is organised and related
+group: null
+render:
+  image: {}
+related:
+  - { asset: della-bella-prints/cupid-subduing-two-lions-in-acanthus-scroll, role: companion }
+usage_notes:
+  - The blank branch cartouche at the left and the wreath at the right are open fields that can carry a short word or number.
+  - Each head with its scroll crops out as a small vignette; the central leaf burst crops as a symmetrical centrepiece.
+  - Pairs with the Cupid-and-lions frieze from the same plate, which has the same ink and a slightly greater height.
+display_width:
+  - 600
+  - 1200
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: The paper tone of the plate area is retained at low alpha, so the strip shows as a faint rectangle on dark grounds; short rule fragments remain along the top and bottom edges at the left.
+master: master.png
+provenance:
+  method: native-ink-extraction
+  institution: Metropolitan Museum of Art
+  object_title: 'Two Acanthus Friezes: Cupid Subduing Two Lions; Heads of Four Seasons, plate 14 from "Decorative friezes and foliage" (Ornamenti di fregi e fogliami)'
+  object_identifier: 1986.1180.647
+  date: ca. 1648
+  artist: Stefano della Bella
+  record_url: https://www.metmuseum.org/art/collection/search/377606
+  image_rights: CC0-1.0
+  rights_url: https://www.metmuseum.org/policies/image-resources
+  source_sha256: 9020e8352e0e7a2650ca954694e65f17df7449415f682ace658d372b8f7c7291
+license: null

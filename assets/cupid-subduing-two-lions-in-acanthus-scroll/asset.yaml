@@ -1,0 +1,56 @@
+# descriptive: find it and understand it
+id: cupid-subduing-two-lions-in-acanthus-scroll
+title: Frieze of Cupid subduing two lions in acanthus scrolls
+description: A long horizontal etched frieze. At the centre a winged Cupid, seen from the front with his head bowed, grips the manes of two lions that crouch to either side of him; the lions' hindquarters dissolve into large acanthus volutes that curl outward, and a further volute closes each end, the left one wrapping a cluster of berries. At the far left and far right a fragment of a neighbouring shaggy lion's head, cut by the plate edge, is included. Loose dark brown ink line work; the faint paper tone of the plate area is kept at low opacity.
+type: divider
+categories:
+  - humans
+  - animals
+  - scrollwork
+subjects:
+  - frieze
+  - cupid
+  - putto
+  - wings
+  - lion
+  - acanthus
+  - leaf
+  - scroll
+  - berry
+colors:
+  - brown
+  - black
+facing: mixed
+composition: single-ornament
+
+# structural: how it is organised and related
+group: null
+render:
+  image: {}
+related:
+  - { asset: della-bella-prints/four-season-heads-in-acanthus-frieze, role: companion }
+usage_notes:
+  - Symmetrical about Cupid, so it sits well centred under a title; crop about 4 percent off each end to drop the cut lion-head fragments.
+  - Pairs with the heads-of-the-seasons frieze from the same plate, which has the same height and ink.
+display_width:
+  - 600
+  - 1200
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: The paper tone of the plate area is retained at low alpha, so the strip shows as a faint rectangle on dark grounds; cut fragments of the adjoining lion heads remain at both ends and a short rule fragment along the top left edge.
+master: master.png
+provenance:
+  method: native-ink-extraction
+  institution: Metropolitan Museum of Art
+  object_title: 'Two Acanthus Friezes: Cupid Subduing Two Lions; Heads of Four Seasons, plate 14 from "Decorative friezes and foliage" (Ornamenti di fregi e fogliami)'
+  object_identifier: 1986.1180.647
+  date: ca. 1648
+  artist: Stefano della Bella
+  record_url: https://www.metmuseum.org/art/collection/search/377606
+  image_rights: CC0-1.0
+  rights_url: https://www.metmuseum.org/policies/image-resources
+  source_sha256: 9020e8352e0e7a2650ca954694e65f17df7449415f682ace658d372b8f7c7291
+license: null
