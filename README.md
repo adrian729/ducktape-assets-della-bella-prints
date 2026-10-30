@@ -3,7 +3,7 @@
 
 Two acanthus friezes, Cupid subduing two lions and heads of foliage, etched by Stefano della Bella around 1648, from one sheet in the Metropolitan Museum of Art; loose prints by one artist, grouped by sheet.
 
-Part of [Ducktape Assets](https://github.com/adrian729/ducktape-assets). Set id `della-bella-prints`, historical, 2 assets.
+Part of [Ducktape Assets](https://github.com/adrian729/ducktape-assets). Set id `della-bella-prints`, historical, 2 assets, version 1.0.0.
 
 ## Licence and attribution
 
@@ -13,10 +13,10 @@ Author: adrian729. Maintainer: https://github.com/adrian729/ducktape-assets/issu
 
 ## Use one asset
 
-No version is published yet. Once it is, pin the exact version (never `@latest`); the URL scheme is:
+Pin the exact version (never `@latest`). For `della-bella-prints/cupid-subduing-two-lions-in-acanthus-scroll`:
 
-```
-https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-della-bella-prints@<version>/webp/<asset-id>-<width>.webp
+```html
+<img src="https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-della-bella-prints@1.0.0/webp/cupid-subduing-two-lions-in-acanthus-scroll-512.webp" alt="" loading="lazy">
 ```
 
 Package `@ranx729/ducktape-assets-della-bella-prints`; every file, width and format is listed in its `manifest.json`. Masters live in git under `assets/<id>/` and in `@ranx729/ducktape-assets-della-bella-prints-masters`; never put a master on a page.
